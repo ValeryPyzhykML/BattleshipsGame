@@ -1,0 +1,15 @@
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\Battleships.ConsoleWrapper.deps.json
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\Battleships.ConsoleWrapper.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\ref\Battleships.ConsoleWrapper.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\Battleships.ConsoleWrapper.pdb
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\Battleships.Core.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\bin\Debug\net5.0\Battleships.Core.pdb
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.csproj.AssemblyReference.cache
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.AssemblyInfoInputs.cache
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.AssemblyInfo.cs
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.csproj.CopyComplete
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\ref\Battleships.ConsoleWrapper.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.ConsoleWrapper\obj\Debug\net5.0\Battleships.ConsoleWrapper.pdb

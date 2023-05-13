@@ -1,0 +1,11 @@
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.AssemblyInfoInputs.cache
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.AssemblyInfo.cs
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\bin\Debug\net5.0\Battleships.Core.deps.json
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\bin\Debug\net5.0\Battleships.Core.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\bin\Debug\net5.0\ref\Battleships.Core.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\bin\Debug\net5.0\Battleships.Core.pdb
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\ref\Battleships.Core.dll
+C:\Users\Valery\source\repos\Battleships\Battleships.Core\obj\Debug\net5.0\Battleships.Core.pdb

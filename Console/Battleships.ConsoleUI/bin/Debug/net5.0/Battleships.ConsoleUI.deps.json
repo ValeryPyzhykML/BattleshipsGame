@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Battleships.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "Battleships.ConsoleWrapper": "1.0.0"
+        },
+        "runtime": {
+          "Battleships.ConsoleUI.dll": {}
+        }
+      },
+      "Battleships.ConsoleWrapper/1.0.0": {
+        "dependencies": {
+          "Battleships.Core": "1.0.0"
+        },
+        "runtime": {
+          "Battleships.ConsoleWrapper.dll": {}
+        }
+      },
+      "Battleships.Core/1.0.0": {
+        "runtime": {
+          "Battleships.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battleships.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleships.ConsoleWrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleships.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
